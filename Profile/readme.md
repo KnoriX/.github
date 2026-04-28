@@ -72,18 +72,18 @@ Generic leaderboards          →    Goal-specific ranking systems
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        KNORIX CORE ENGINE                       │
+│                        KNORIX CORE ENGINE                                   │
 ├──────────────┬──────────────┬───────────────┬───────────────────┤
-│  LEARNER     │  KNOWLEDGE   │  MENTOR       │  COMMUNITY        │
-│  PROFILE     │  ENGINE      │  ENGINE       │  ENGINE           │
-│  MODULE      │              │               │                   │
+│  LEARNER        │  KNOWLEDGE     │  MENTOR          │  COMMUNITY            │
+│  PROFILE        │  ENGINE        │  ENGINE          │  ENGINE               │
+│  MODULE         │                │                  │                       │
 ├──────────────┼──────────────┼───────────────┼───────────────────┤
-│ · Skill Map  │ · Multi-tier │ · Real-time   │ · Niche pods      │
-│ · Goal Track │   Content    │   Doubt Solve │ · Leaderboards    │
-│ · Learning   │ · Visual Gen │ · Voice/Chat  │ · Peer matching   │
-│   Style AI   │ · Path Gen   │ · Proactive   │ · Study rooms     │
-│ · Progress   │ · Gap Detect │   Check-ins   │ · Challenges      │
-│   Analytics  │              │               │                   │
+│ · Skill Map     │ · Multi-tier   │ · Real-time      │ · Niche pods          │
+│ · Goal Track.   │   Content      │   Doubt Solve    │ · Leaderboards        │
+│ · Learning      │ · Visual Gen   │ · Voice/Chat     │ · Peer matching       │
+│   Style AI      │ · Path Gen     │ · Proactive      │ · Study rooms         │
+│ · Progress      │ · Gap Detect   │   Check-ins      │ · Challenges          │
+│   Analytics     │                │                  │                       │
 └──────────────┴──────────────┴───────────────┴───────────────────┘
 ```
 
@@ -307,25 +307,6 @@ Phase 4  ·  MASTERY LAYER           [ Future ]
          ├─ Burnout + wellbeing AI
          └─ Enterprise / institutional layer
 ```
-
-<br/>
-
----
-
-<br/>
-
-## ◈ Connect
-
-<div align="center">
-
-| Channel | Link |
-|---|---|
-| 🌐 Organization | [github.com/KnoriX](https://github.com/KnoriX) |
-| 📺 YouTube | [@knorixhq](https://www.youtube.com/@knorixhq) |
-| 📧 Email | [enquiry.knorix@gmail.com](mailto:enquiry.knorix@gmail.com) |
-| 📍 Location | India |
-
-</div>
 
 <br/>
 
